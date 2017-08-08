@@ -1,25 +1,12 @@
-# ReduxSimpleStarter
+# React-Redux Simple Book List App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A simple react book list app that uses redux to manage application state.
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+#### To start, do the following in terminal.
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+> git clone https://github.com/mykeagonia08/React-Book-List.git
+> cd React-Book-List
 > npm install
 > npm start
 ```
